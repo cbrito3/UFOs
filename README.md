@@ -17,4 +17,4 @@ One of the drawbacks of this new design for users is that the initial letter for
 
 The two recommendations I would give to further development of the webpage would be:
   1. Add a new filter for "Duration", this could allow users to look for data that are less than 10 minutes or more than 5 minutes, etc. 
-  2. Another thing that could make this page user friendly is to add "clear" option box so users can clear the data they are looking for and continue their search for other infornation. 
+  2. Another thing that could make this page user friendly is to add "clear" option box so users can clear the data they are looking for and continue their search for other information. 
