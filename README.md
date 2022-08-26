@@ -9,6 +9,12 @@ Dana asked to help her provide a more in-depth analysis of the UFO sightings bas
 In addition to the date search criteria, the updated webpage will include filters for city, state, country and shapre. 
 For example in this picutre we can see how the search criteria will look for the user:
 
+https://github.com/cbrito3/UFOs/blob/main/Static/UFO%20sighting%20webpage.png?raw=true
 
 
 ## 3. Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
+One of the drawbacks of this new design for users is that the initial letter for every entry such as in city have to be in lower case letters, this can cause frustration as people would have to go back and change the first letter in case they thought upper case initial might work just fine. 
+
+The two recommendations I would give to further development of the webpage would be:
+  1. Add a new filter for "Duration", this could allow users to look for data that are less than 10 minutes or more than 5 minutes, etc. 
+  2. Another thing that could make this page user friendly is to "clear" option box so users can clear the data they were looking for and continue their search. 
