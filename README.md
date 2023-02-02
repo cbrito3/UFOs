@@ -9,7 +9,7 @@ Dana asked to help her provide a more in-depth analysis of the UFO sightings bas
 In addition to the date search criteria, the updated webpage will include filters for city, state, country and shapre. 
 For example in this picutre we can see how the search criteria will look for the user:
 
-https://github.com/cbrito3/UFOs/blob/main/Static/UFO%20sighting%20webpage.png?raw=true
+![UFO%20sighting%20webpage](https://github.com/cbrito3/UFOs/blob/main/Static/UFO%20sighting%20webpage.png?raw=true)
 
 
 ## 3. Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
